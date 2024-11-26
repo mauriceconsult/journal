@@ -7,3 +7,4 @@ const ServerPage = async () => {
 };
 
 export default ServerPage;
+
